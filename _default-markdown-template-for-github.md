@@ -152,7 +152,7 @@ http://stackedit.io/editor
 [5]: Lukas W. DiBeneditto
 http://dibeneditto.com/
   
-[6]: citeurl.com
+[6]: citeurl.com schemas text
 http://citeurl.com/schemas/text/
   
 [7]: RFC 7763 - The text/markdown Media Type
