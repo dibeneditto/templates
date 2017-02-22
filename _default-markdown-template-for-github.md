@@ -136,27 +136,27 @@ the character. \*Ignored bold text\*.
 
 References:
 
-[1]: [RFC 678 - Standard file formats]
-(http://tools.ietf.org/html/rfc678)
+[1]: RFC 678 - Standard file formats
+http://tools.ietf.org/html/rfc678
   
-[2]: [Daring Fireball: Markdown Syntax Documentation]
-(http://daringfireball.net/projects/markdown/syntax)
+[2]: Daring Fireball: Markdown Syntax Documentation
+http://daringfireball.net/projects/markdown/syntax
   
-[3]: [Getting started with writing and formatting on GitHub - User 
-Documentation]
-(https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+[3]: Getting started with writing and formatting on GitHub - User 
+Documentation
+https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/
   
-[4]: [StackEdit – Editor]
-(http://stackedit.io/editor)
+[4]: StackEdit – Editor
+http://stackedit.io/editor
 
-[5]: [Lukas W. DiBeneditto]
-(http://dibeneditto.com/)
+[5]: Lukas W. DiBeneditto
+http://dibeneditto.com/
   
-[6]: [citeurl.com]
-(http://citeurl.com/schemas/text/)
+[6]: citeurl.com
+http://citeurl.com/schemas/text/
   
-[7]: [RFC 7763 - The text/markdown Media Type]
-(https://tools.ietf.org/html/rfc7763)
+[7]: RFC 7763 - The text/markdown Media Type
+https://tools.ietf.org/html/rfc7763
 
 
 //+--------++--------++--------++--------++--------++--------++--------+
