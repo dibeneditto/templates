@@ -5,7 +5,7 @@ CREATED: 2017-02-21
 DESCRIPTION: My default Markdown template for use on the Github.com 
 website.
 KEYWORDS: default, dibeneditto, github, markdown, template
-MODIFIED: 2017-02-21
+MODIFIED: 2017-02-22
 PUBLISHER: Lukas W. DiBeneditto <lukas@dibeneditto.com>
 ```
 
