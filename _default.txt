@@ -6,6 +6,16 @@ DESCRIPTION:
 KEYWORDS: 
 MODIFIED: 
 PUBLISHER: 
+VERSION: 
 
 
-Text
+Title
+=====
+
+[Link](http://a.com) or [Link][1]
+
+
+References
+----------
+
+[1]: http://b.org "b homepage"
