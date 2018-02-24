@@ -1,5 +1,5 @@
-```
-TITLE: _default-markdown-template-for-github.md
+---
+TITLE: text-template-github-markdown.md
 AUTHOR: Lukas W. DiBeneditto <lukas@dibeneditto.com>
 CREATED: 2017-02-21
 DESCRIPTION: My default Markdown template for use on the Github.com 
@@ -7,7 +7,12 @@ website.
 KEYWORDS: default, dibeneditto, github, markdown, template
 MODIFIED: 2017-02-22
 PUBLISHER: Lukas W. DiBeneditto <lukas@dibeneditto.com>
-```
+---
+
+
+NOTE: The above text that includes the title, author, created, 
+description, keywords, modified, and publisher represents the metadata
+in YAML format.
 
 
 NOTE: Recommendations for markdown are as follows:
@@ -157,6 +162,9 @@ http://citeurl.com/schemas/text/
   
 [7]: RFC 7763 - The text/markdown Media Type
 https://tools.ietf.org/html/rfc7763
+
+[8]: The Official YAML Web Site
+http://yaml.org/
 
 
 //+--------++--------++--------++--------++--------++--------++--------+
